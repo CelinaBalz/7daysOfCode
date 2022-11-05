@@ -2,3 +2,69 @@
 .container{
     padding-inline: 7rem;
 }
+
+/* -------------------------------------------------- NAVBAR --------------------------------------------------*/
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+}
+
+.logo__title{
+    font-size: var(--text-sm);
+    font-weight: 500;
+}
+
+.navbar__items{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navbar__item{
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    padding-block: 18px;
+
+}
+
+.navbar__item__link{
+    font-size: var(--text-xsm);
+    font-weight: 500;
+    color: var(--gray-500);
+    text-decoration: none;
+}
+
+.navbar__item__link:hover{
+    color: var(--gray);
+    text-decoration: underline;
+}
+
+.button{
+    cursor: pointer;
+}
+
+.button:hover{
+    opacity: 80%;
+}
+
+.button__default{
+    border: none;
+    background: none;
+    color: var(--gray-500);
+}
+
+.button__cta{
+    border: none;
+    background-color: var(--red-900);
+    color: var(--white);
+    padding-inline:18px ;
+    padding-block: 10px;
+    border-radius: 8px;
+}
+
+

@@ -1,9 +1,11 @@
 :root {
+    --white: white;
     --gray: #3A404E;
     --gray-900: #101828;
     --gray-500:  #667085;
     --red-900: #8E2424;
     --red-500:  #C31919;
+
     --text-xsm: 16px;
     --text-sm: 18px
     --text-md: 20px;
