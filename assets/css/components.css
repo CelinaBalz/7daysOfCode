@@ -45,6 +45,7 @@
 }
 
 .button{
+    font-size: 16px;
     cursor: pointer;
 }
 
@@ -70,3 +71,35 @@
 
 /* -------------------------------------------------- HEADER --------------------------------------------------*/
 
+.header{
+    display: flex;
+    flex-direction: column;
+    gap: 24px 36px;
+    align-items: center;
+    padding-block: 96px;
+    width: 791px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header__subtitle{
+    font-size: var(--text-xsm);
+    font-weight: 600;
+    color: var(--red-900);
+}
+
+.header__title{
+    font-size: var(--text-xlg);
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+.header__text{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color:var(--gray-500);
+}
