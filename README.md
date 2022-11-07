@@ -15,4 +15,12 @@ Neste primeiro dia, você vai desenvolver o cabeçalho da aplicação, chamado n
 
 O desafio de hoje é desenvolver a primeira seção da sua página, que também pode ser chamada de "cabeçalho": <br/>
 
-![cabecalho](assets/img/design/cabecalho.png)
+![cabecalho](assets/img/design/cabecalho.png) <br/>
+
+### Dia 2 <br/>
+
+Hoje você vai desenvolver uma parte bem legal e desafiadora: a seção de métricas e resultados da sua página. Ela é uma seção muito comum na maioria das landing pages que vemos por aí hoje em dia. <br/>
+
+A empresa que te contratou pediu para você incluir 4 métricas diferentes, com um título, um subtítulo e um texto: <br/>
+
+![measures](assets/img/design/measures.png) <br/>

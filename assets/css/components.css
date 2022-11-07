@@ -103,3 +103,40 @@
     text-align: center;
     color:var(--gray-500);
 }
+
+/* -------------------------------------------------- MEASURES --------------------------------------------------*/
+
+.measures{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 32px;
+    height: 288px;
+}
+
+.measures__container{
+    width: 280px;
+    gap: 12px;
+}
+
+.measures__title{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    color: var(--red-900);
+}
+
+.measures__label{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: var(--gray-900);
+}
+
+.measures__text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--gray-500);
+}
