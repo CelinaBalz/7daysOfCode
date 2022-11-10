@@ -20,3 +20,121 @@ body{
     font-family: 'Inter', sans-serif;
     font-size: var(--text-md);
 }
+
+
+
+/*Logo*/
+
+.logo__title{
+    font-size: var(--text-sm);
+    font-weight: 500;
+}
+
+/*TEXT SMALL*/ 
+
+.text-sm-medium{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align:center;
+}
+
+
+/*TEXT MD*/
+
+.text-md-medium{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--gray-500);
+    text-decoration: none;
+}
+
+.text-md-semibold{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.text-md-normal{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+/*TEXT LG*/
+
+
+.text-lg-medium{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.text-lg-normal{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align:center;
+}
+
+
+/*TEXT XL*/
+
+.text-xl-normal{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align:center;
+}
+
+.text-xl-medium{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align:center;
+}
+
+
+/*DISPLAY*/
+
+.display-lg-semibold{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 60px;
+    letter-spacing: -0.02em;
+}
+
+
+.display-md-semibold{
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+}
+.display-xl-semibold{
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 72px;
+    letter-spacing: -0.02em;
+}
+
+
+
+/*COLORS*/
+
+.text-gray{
+    color: var(--gray-500);
+}
+
+.text-red{
+    color: var(--red-900);
+}
+
+.text-black{
+    color: var(--gray-900);
+}
+
+.text-white{
+    color: var(--gray-100);
+}
