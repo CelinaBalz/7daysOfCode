@@ -32,3 +32,8 @@ O que você vai fazer hoje é a seção de "Estamos procurando por talentos", ma
 
 ![measures](assets/img/design/talentos.png) <br/>
 
+### Dia 4 <br/>
+
+Dando continuidade, hoje você vai desenvolver a parte talvez mais importante do projeto inteiro, a seção de vagas! <br/>
+
+![measures](assets/img/design/vagas.png) <br/>
