@@ -23,4 +23,12 @@ Hoje você vai desenvolver uma parte bem legal e desafiadora: a seção de métr
 
 A empresa que te contratou pediu para você incluir 4 métricas diferentes, com um título, um subtítulo e um texto: <br/>
 
-![measures](assets/img/design/measures.png) <br/>
+![measures](assets/img/design/metricas.png) <br/>
+
+### Dia 3 <br/>
+
+O que você vai fazer hoje é a seção de "Estamos procurando por talentos", mas sem a parte de divulgação de vagas ainda, apenas até a imagem! <br/>
+
+
+![measures](assets/img/design/talentos.png) <br/>
+
