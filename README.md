@@ -38,9 +38,9 @@ Dando continuidade, hoje você vai desenvolver a parte talvez mais importante do
 
 ![measures](assets/img/design/vagas.png) <br/>
 
-### Dia 5 <br/>
+### Dia 6 <br/>
 
 No desafio de hoje, você vai criar a seção de Depoimentos.<br/>
 
-![measures](assets/img/design/depoimentos.png) <br/>
+![measures](assets/img/design/Depoimentos.png) <br/>
 

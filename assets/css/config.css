@@ -33,11 +33,24 @@ body{
 
 /*TEXT SMALL*/ 
 
+.text-sm-normal{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align:center;
+}
+
 .text-sm-medium{
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
     text-align:center;
+}
+
+.text-sm-semibold{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
 }
 
 
@@ -113,6 +126,15 @@ body{
     line-height: 44px;
     letter-spacing: -0.02em;
 }
+
+.display-md-medium{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    letter-spacing: -0.02em;
+}
+
+
 .display-xl-semibold{
     font-weight: 600;
     font-size: 60px;
@@ -145,4 +167,7 @@ body{
 
 .text-start{
     text-align: start;
+}
+.text-center{
+    text-align: center;
 }
